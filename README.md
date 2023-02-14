@@ -1,4 +1,4 @@
-I made a website in Wordpress by using Elementor builder . choose one of astra theme than i can make changes in that template. this website is not live , that's why i insert screenshot. thanku
+I made a website in Wordpress by using Elementor builder . choose one of astra theme than i can make changes in that template. this website is not live , that's why i share screenshot. thanku
 
                                           Home Page Main Banner
 
