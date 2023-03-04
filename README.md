@@ -1,4 +1,4 @@
-I made a website in Wordpress by using Elementor builder . choose one of astra theme than i can make changes in that template. this website is not live , that's why i share screenshot. thanku
+I made a website in WordPress by using the Elementor builder, and chose one of the Astra themes so that I can make changes in that template. I'm not sharing a live website, which is why I'm sharing a screenshot. Thank you.
 
                                           Home Page Main Banner
 
@@ -26,9 +26,9 @@ Here is the products.
 
 
 
-divide in 2 catagory 
-a-- WOMEN 
-b-- KIDS 
+divide in 2 catagory <br>
+(a)-- WOMEN <br>
+(b)-- KIDS <br>
 
 a-- WOMEN catagpry divided in subcatagories like dupatta, Ready to Wear , Unstitched
 
